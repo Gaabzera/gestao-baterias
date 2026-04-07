@@ -34,3 +34,5 @@ Bootstrap 5 Estilização e componentes responsivos.
 Bootstrap Icons Biblioteca de ícones.
 
 FullCalendar API Para a gestão visual de prazos.
+
+Autor: Gabriel Rodrigues Oliveira
